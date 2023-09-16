@@ -17,6 +17,11 @@ Inspired from the movie EX-MACHINA was born a game that will test your skill to 
 This project was made in Academia de Código bootcamp after 4 weeks.
 
 
+## Screenshots
+
+![App Screenshot](https://imgtr.ee/images/2023/09/16/9c0d889872583c8561c8500014c64b9a.jpeg)
+
+
 
 ## TechStack
 
