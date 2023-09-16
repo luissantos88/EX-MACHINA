@@ -21,7 +21,10 @@ This project was made in Academia de Código bootcamp after 4 weeks.
 
 ![App Screenshot](https://imgtr.ee/images/2023/09/16/9c0d889872583c8561c8500014c64b9a.jpeg)
 
-
+## Authors
+- [@luissantos88](https://github.com/luissantos88)
+- [@AndreLCostaAC](https://github.com/AndreLCostaAC)
+- [@davidguerra27](https://github.com/davidguerra27)
 
 ## TechStack
 
