@@ -1,14 +1,7 @@
 
 # EX-MACHINA
 
-
-
-
-
-
-
-
-![App Screenshot](https://imgtr.ee/images/2023/09/16/5a2685c6d70ce6e2ecdabc7a8f721e26.png)
+![capa](https://github.com/user-attachments/assets/fce651be-bec0-448a-b0ab-2a27df99e79f)
 
 ## Description
 
@@ -19,7 +12,7 @@ This project was made in Academia de Código bootcamp after 4 weeks.
 
 ## Screenshots
 
-![App Screenshot](https://imgtr.ee/images/2023/09/16/9c0d889872583c8561c8500014c64b9a.jpeg)
+![menu](https://github.com/user-attachments/assets/67195421-16bb-4016-911e-0108a2013fef)
 
 ## Authors
 - [@luissantos88](https://github.com/luissantos88)
